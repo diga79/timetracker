@@ -1,0 +1,18 @@
+<h1>Works</h1>
+
+<p>Here are all the Works</p>
+
+<table>
+	<tbody>
+		<tr>
+			<th>Action</th>
+			<th>Project</th>
+			<th>User</th>
+			<th>Date</th>
+			<th>Hours</th>
+		</tr>
+		<%= render partial: "work", collection: @works %>
+	</tbody>
+</table>
+
+<%= will_paginate @works %>

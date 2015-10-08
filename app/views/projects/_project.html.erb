@@ -1,0 +1,10 @@
+<tr>
+	<td class="action"><%= link_to "View", project %>
+	<% if user_signed_in? %>
+	 | <%= link_to "Edit", edit_project_path(project) %>
+	 <% end %>
+	</td>
+
+	<td><%= project %></td>
+	<td><%= project.owner %></td>
+</tr>

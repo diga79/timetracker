@@ -1,0 +1,26 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+projectA:
+  name: 'Website'
+  company: sw
+  default_rate: 100
+  slug: projectA
+  owner: rodrigo
+
+projectB:
+  name: 'CRM'
+  company: websutra
+  default_rate: 125
+  slug: projectB
+  owner: rodrigo
+
+projectC:
+  name: 'Removal'
+  company: decor
+  default_rate: 35
+  slug: projectC
+  owner: rodrigo

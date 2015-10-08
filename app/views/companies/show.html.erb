@@ -1,0 +1,19 @@
+<h1><%= @company.name %></h1>
+
+<p><%= link_to "Edit Company", edit_company_path(@company) %></p>
+
+<h2>Projects</h2>
+<% if @company.projects.size > 0  %>
+<table>
+	<tbody>
+		<tr>
+			<th>Action</th>
+			<th>Project</th>
+			<th>Owner</th>
+		</tr>
+		<%= render partial: "projects/project", collection: @company.projects %> 
+	</tbody>
+</table>
+<% else %>
+	<p>No projects created yet</p>
+<% end %>

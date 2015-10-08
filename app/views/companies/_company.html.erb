@@ -1,0 +1,8 @@
+<tr>
+	<td><%= link_to "View", company %>
+		<% if user_signed_in? %>
+		 	| <%= link_to "Edit", edit_company_path(company) %>
+		<% end %>
+	</td>
+	<td><%= company.name %></td>
+</tr>

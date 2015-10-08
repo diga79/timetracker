@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"upl",
+				"uploaded_io"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"compa",
+				"company_id"
+			],
+			[
+				"Time",
+				"Timetracker"
+			],
+			[
+				"nav",
+				"nav_item"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"mi",
+				"minimum"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"pay",
+				"payrate"
+			],
+			[
+				"i",
+				"i"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rodrigofaria/Apps/railsGuide.txt",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/devise/registrations/new.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/devise/registrations/edit.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/models/user.rb",
+		"/Users/rodrigofaria/Apps/timetracker/config/routes.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/controllers/registrations_controller.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/_company.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/controllers/works_controller.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/layouts/application.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/helpers/application_helper.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/assets/stylesheets/general/alerts.css",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/_form.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/models/work.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/assets/stylesheets/general/general.css",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/_work.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/_project.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/index.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/config/application.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151007095523_add_admin_to_user.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/show.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/controllers/companies_controller.rb",
+		"/Users/rodrigofaria/Apps/timetracker/test/fixtures/users.yml",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/index.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/models/project.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/_form.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/show.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/controllers/projects_controller.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/projectupdated_email.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/projectupdated_email.text.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/workcreated_email.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/test/fixtures/projects.yml",
+		"/Users/rodrigofaria/Apps/timetracker/app/mailers/usermailer.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/index.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/edit.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/new.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/new.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/edit.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/show.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/new.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/edit.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151007091328_change_user_id_to_owner_id_in_projects.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/controllers/application_controller.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151007052801_add_doc_to_works.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/mailers/application_mailer.rb",
+		"/Users/rodrigofaria/Apps/timetracker/config/environments/development.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/projectupdated.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/projectupdated.text.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/usermailer/workcreated_email.text.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/user_mailer/workcreated.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/mailers/user_mailer.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151007020157_add_user_id_to_projects.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/user_mailer/workcreate_email.text.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/assets/stylesheets/general/forms.css",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter8/timetracker/app/helpers/application_helper.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151006213649_add_email_field_to_users.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151006214919_add_devise_to_users.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/schema.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/create.js.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/_form.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/works/_sidebar.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/companies/_sidebar.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/views/projects/_sidebar.html.erb",
+		"/Users/rodrigofaria/Apps/timetracker/app/models/company.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151006052117_add_slug_to_project.rb",
+		"/Users/rodrigofaria/Apps/timetracker/app/assets/javascripts/general/general.css",
+		"/Users/rodrigofaria/railsGuide.txt",
+		"/Users/rodrigofaria/railsGuide",
+		"/Users/rodrigofaria/Apps/timetracker/test/fixtures/works.yml",
+		"/Users/rodrigofaria/Apps/timetracker/Gemfile",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151005074951_create_companies.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151005081509_create_users.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151005081522_create_projects.rb",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151005081534_create_works.rb",
+		"/Users/rodrigofaria/Apps/timetracker/test/fixtures/companies.yml",
+		"/Users/rodrigofaria/Apps/timetracker/db/migrate/20151005120110_change_hours_field_in_works_to_integer.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter2/blog/test/fixtures/categories.yml",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/blocks.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/blocks2.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/blocks-fibonacci.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/block-exercise.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/array-hash-exercise.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/iterators.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/map-find.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/control-structures-case.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/control-structures-if-unless.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/control-structures-loops.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/hashes.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/hashes-as-method-params.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/array-hash-solution.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/arrays-as-return-values.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/arrays-getting-elements.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/arrays-setting-elements.rb",
+		"/Users/rodrigofaria/Apps/ruby/LearningRoR/Chapter3/ruby/arrays.rb",
+		"/Users/rodrigofaria/Documents/test.txt",
+		"/Users/rodrigofaria/Documents/test1.txt",
+		"/Users/rodrigofaria/Documents/write.rb",
+		"/Users/rodrigofaria/Documents/numbers.rb",
+		"/Users/rodrigofaria/Documents/employee.rb",
+		"/Users/rodrigofaria/Documents/error.rb",
+		"/Users/rodrigofaria/Documents/read.rb",
+		"/Users/rodrigofaria/mySql_user.txt",
+		"/Users/rodrigofaria/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}
